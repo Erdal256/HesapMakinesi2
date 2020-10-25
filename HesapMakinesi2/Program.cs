@@ -26,6 +26,7 @@ namespace HesapMakinesi2
                 Console.Write("\n");
 
             }
+            
 
             int sayi1, sayi2;
             string secim;
